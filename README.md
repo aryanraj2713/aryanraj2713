@@ -10,3 +10,9 @@
 aryanraj2713/aryanraj2713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Conect with me on:
+[![Linkedin Badge](https://img.shields.io/badge/-KrishKatyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-raj-3a68b39a)](https://www.linkedin.com/in/aryan-raj-3a68b39a)
+[![Krish's github stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713)](https://github.com/aryanraj2713/github-readme-stats)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj2713)](https://github.com/aryanraj2713/github-readme-stats)
