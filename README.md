@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Aryan Raj</h1>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aryanraj2713)
+
+
+
+
+
+
+
 - 👋 Hi, I’m Aryan Raj
 - 👀 I’m interested in Python,Java,MySql,HTML and CSS.
 - 🌱 I’m currently learning Java and Web developement.
