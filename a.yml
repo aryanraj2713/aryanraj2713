@@ -1,0 +1,2 @@
+- name: Header Comments
+  uses: pabio/header-comments@v1.0.5
