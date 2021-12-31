@@ -36,5 +36,16 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:aryanraj2713@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+     
+ </p>
+<!--<a href="https://github.com/ampsteric/ampsteric" align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>-->
+
+<p align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanraj2713&theme=monokai) 
+  
+</p>
 
 
