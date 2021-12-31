@@ -20,12 +20,21 @@ aryanraj2713/aryanraj2713 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-## Conect with me on:
-[![Linkedin Badge](https://img.shields.io/badge/-AryanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryanraj-3a68b39a)](https://www.linkedin.com/in/aryan-raj-3a68b39a)
+##
 
-[![Krish's github stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713)](https://github.com/aryanraj2713/github-readme-stats)
-&nbsp;
+<p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj2713)](https://github.com/aryanraj2713/github-readme-stats)
+  <a href="https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/aryanraj2713ins">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/aryanraj_2713/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:aryanraj2713@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
 
 
