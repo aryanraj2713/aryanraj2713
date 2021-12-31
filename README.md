@@ -49,17 +49,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <b>Open for collaborations.</b>
      
-</p>
-<!--<a href="https://github.com/ampsteric/ampsteric" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>-->
-
-<p align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanraj2713&theme=monokai) 
-  
-</p>
-
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=synthwave)
 
 
 
