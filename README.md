@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/aryan-raj-3a68b39a/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/aryanraj2713ins">
+  <a href="https://twitter.com/aryanraj2713">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://www.instagram.com/aryanraj_2713/">
