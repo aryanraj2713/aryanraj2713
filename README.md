@@ -51,6 +51,10 @@ You can click the Preview link to take a look at your changes.
   <b>Open for collaborations.</b>
      
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=synthwave)
+     
+     
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+
 
      
 
