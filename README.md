@@ -53,7 +53,8 @@ You can click the Preview link to take a look at your changes.
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=synthwave)
      
      
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://www.cutercounter.com/hits.php?id=hxxocqa&nd=9&style=22" alt="hit counter" align="center">
+
 
 
      
