@@ -16,10 +16,6 @@
 - 📫 From From New Delhi, India
     ,EMAIL- :  aryanraj2713@gmail.com , av3781@srmist.edu.in
 
-<!---
-aryanraj2713/aryanraj2713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ##
 
