@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 - 👋 Hi, I’m Aryan Raj
 - 👀 I’m interested in Python, Java, MySql, Machine Learning.
 - 🌱 I’m currently learning Java and Web developement.
