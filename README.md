@@ -1,3 +1,4 @@
+![Untitled design (1)](https://user-images.githubusercontent.com/75358720/149664997-d0889d39-ec97-4306-bc40-72db40b1d342.png)
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 
 
@@ -43,7 +44,7 @@
   <b>Open for collaborations.</b>
      
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=synthwave)
-![Untitled design (1)](https://user-images.githubusercontent.com/75358720/149664997-d0889d39-ec97-4306-bc40-72db40b1d342.png)
+
 
  
      
