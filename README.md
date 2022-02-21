@@ -46,20 +46,15 @@
   <b>Open for collaborations.</b>
      
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=dark)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Java-Codes-Collection)](https://github.com/aryanraj2713/Java-Codes-Collection)
-
-
-
- 
-     
+   
 <div align="center">
 <p>Have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Java-Codes-Collection)](https://github.com/aryanraj2713/Java-Codes-Collection)
+
 
 
 
