@@ -54,7 +54,10 @@
 </div>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Machine-Learning-Collection)](https://github.com/aryanraj2713/Machine-Learning-Collection)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Java-Codes-Collection)](https://github.com/aryanraj2713/Java-Codes-Collection)
+
 
 
 
