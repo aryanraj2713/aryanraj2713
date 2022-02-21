@@ -44,7 +44,8 @@
 <p align="center">
   <b>Open for collaborations.</b>
      
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=synthwave)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=dark)
+
 
 
  
