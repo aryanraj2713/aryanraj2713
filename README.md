@@ -49,7 +49,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Java-Codes-Collection)](https://github.com/aryanraj2713/Java-Codes-Collection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Gender-classification)](https://github.com/aryanraj2713/Gender-classification )
+
 
 
  
