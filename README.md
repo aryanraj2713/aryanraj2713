@@ -53,6 +53,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanraj2713&repo=Java-Codes-Collection)](https://github.com/aryanraj2713/Java-Codes-Collection)
 
 
