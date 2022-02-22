@@ -1,5 +1,6 @@
-![Untitled design (1)](https://user-images.githubusercontent.com/75358720/149664997-d0889d39-ec97-4306-bc40-72db40b1d342.png)
+
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 
 
