@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m Aryan Raj
 - 👀 I’m interested in Python, Java, MySql, Machine Learning.
-- 🌱 I’m currently learning Java and Web developement.
+- 🌱 I’m currently learning Java and CSS
 - 💞️ Currently persuing Computer Science Engineering ,
-     from SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, Kattankulathur, Chennai, Tamil Nadu
+     from SRMIST, Chennai, Tamil Nadu
 - 📫 From From New Delhi, India
     ,EMAIL- :  aryanraj2713@gmail.com , av3781@srmist.edu.in
 
