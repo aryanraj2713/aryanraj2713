@@ -33,7 +33,9 @@
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
      
-     
+# My Tech Stack-
+     ![TechStack](https://user-images.githubusercontent.com/75358720/155724656-37ee57fb-5e9d-4edd-850b-c2f5561fe2b4.jpg)
+
 ## Most Used Languages:
 
 
