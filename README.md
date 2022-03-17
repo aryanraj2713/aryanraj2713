@@ -8,7 +8,7 @@
 - 👀 I’m interested in Python, Java, MySql, Machine Learning.
 - 🌱 I’m currently learning Java and CSS
 - 💞️ Currently persuing Computer Science Engineering ,
-     from SRMIST, Chennai, Tamil Nadu
+     from SRMIST
 - 📫 From From New Delhi, India
     ,EMAIL- :  aryanraj2713@gmail.com , av3781@srmist.edu.in
 
