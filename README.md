@@ -59,7 +59,10 @@
 <p align="center">
   <b>Open for collaborations.</b>
      
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&theme=dark)
+
+     
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aryanraj2713?cardType=github&theme=dracula&Title=DD2727)](https://git.io/awesome-stats-card)
+
    
 <div align="center">
 <p>Have a good day!</p>
