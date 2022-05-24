@@ -60,8 +60,6 @@
   <b>Open for collaborations.</b>
      
 
-     
-
 
    
 <div align="center">
