@@ -1,7 +1,5 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
+
 
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
@@ -17,7 +15,6 @@
     ,EMAIL- :  aryanraj2713@gmail.com , av3781@srmist.edu.in
 
 
-#
 
 
 
