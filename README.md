@@ -58,7 +58,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanraj2713&theme=monokai&hide=html)
 
 
-
 <p align="center">
   <b>Open for collaborations.</b>
      
