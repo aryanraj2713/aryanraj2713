@@ -8,13 +8,10 @@
 
 - 👋 Hi, I’m Aryan Raj
 - 👀 I’m interested in Python, Java, MySql, Machine Learning.
-- 🌱 I’m currently learning Java and CSS
+- 🌱 I’m currently learning Java and Flutter app developement.
 - 💞️ Currently persuing Computer Science Engineering ,
      from SRMIST
 - 📫 From New Delhi, India
-    ,EMAIL- :  aryanraj2713@gmail.com , av3781@srmist.edu.in
-
-
 
 
 
