@@ -2,18 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
-
-
-
-- 👋 Hi, I’m Aryan Raj
-- 👀 I’m interested in Python, Java, MySql, Machine Learning.
-- 🌱 I’m currently learning Java and Flutter app developement.
-- 💞️ Currently persuing Computer Science Engineering ,
-     from SRMIST
-- 📫 From New Delhi, India
-
-
 
 
 <p align="center">
