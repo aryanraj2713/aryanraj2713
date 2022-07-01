@@ -23,6 +23,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   
+  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aryanraj2713?cardType=github&theme=dracula&Title=DD2727)](https://git.io/awesome-stats-card)
      
 # My Tech Stack-
