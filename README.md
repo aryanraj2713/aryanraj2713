@@ -26,8 +26,7 @@
   </a><span>&nbsp;</span>
   
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aryanraj2713?cardType=github&theme=dracula&Title=DD2727)](https://git.io/awesome-stats-card)
-     
+![Aryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&count_private=true)     
 # My Tech Stack-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
