@@ -26,7 +26,13 @@
   </a><span>&nbsp;</span>
   
   
-![Aryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj2713&count_private=true)     
+
+	
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aryanraj2713&count_private=true&theme=tokyonight&showicons=true)]()
+    
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj2713&langs_count=5&theme=tokyonight)]()
+      
 # My Tech Stack-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
