@@ -26,7 +26,7 @@
   </a><span>&nbsp;</span>
   
   
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanraj2713&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 	
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aryanraj2713&count_private=true&theme=tokyonight&showicons=true)]()
