@@ -30,7 +30,8 @@
 	
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aryanraj2713&count_private=true&theme=tokyonight&showicons=true)]()
-    
+
+   
       
 # My Tech Stack-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
