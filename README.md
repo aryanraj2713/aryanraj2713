@@ -42,19 +42,16 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
      
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanraj2713&show_icons=true&locale=en&layout=compact" alt="Aryan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&locale=en" alt="aryan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&" alt="aryanraj" /></p>
 	
 	
 	
 	
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats" /></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj2713&langs_count=8&theme=material-palenight&layout=compact&custom_title=%23%20Most%20Used%20Languages&show_icons=true" /></td>
-  </tr>
-</table>
+
 
 <p align="center">
   <b>Open for collaborations.</b>
