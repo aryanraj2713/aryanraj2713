@@ -26,10 +26,6 @@
   </a><span>&nbsp;</span>
   
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanraj2713&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
-	
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aryanraj2713&count_private=true&theme=tokyonight&showicons=true)]()
 
    
       
@@ -47,14 +43,18 @@
      
 
 
-## Most Used Languages:
-
-
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj2713&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html" /> -->
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanraj2713&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanraj2713&theme=monokai&hide=html)
-
+	
+	
+	
+	
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj2713&langs_count=8&theme=material-palenight&layout=compact&custom_title=%23%20Most%20Used%20Languages&show_icons=true" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Open for collaborations.</b>
