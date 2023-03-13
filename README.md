@@ -41,13 +41,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
      
+# 📊 GitHub Stats:
+<h1 align=center>
+  
+![](https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=aryanraj2713&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanraj2713&show_icons=true&locale=en&layout=compact" alt="Aryan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&locale=en" alt="aryan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&" alt="aryanraj" /></p>
-	
+</h1>
 	
 	
 	
