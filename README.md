@@ -32,9 +32,11 @@
 # 📊 GitHub Stats:
 <h1 align=center>
   
-![](https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=aryanraj2713&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanraj2713&show_icons=true&locale=en&layout=compact" alt="AR" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&show_icons=true&locale=en" alt="AR" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&" alt="AR" /></p>
 
 </h1>
 	
