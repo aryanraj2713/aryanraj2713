@@ -1,3 +1,18 @@
+# Aryan Raj  
+
+[LinkedIn Profile](https://www.linkedin.com/in/aryanraj13/)  
+
+## About Me  
+I am a final-year student at [SRM Institute of Science and Technology (SRM IST)](https://www.srmist.edu.in/), pursuing a **B.Tech in Computer Science and Engineering**.  
+
+## Experience  
+- **Machine Learning Engineer Intern** at [HyperVerge](https://hyperverge.co/) (Current)  
+- **Machine Learning Engineer** at [Emendo.ai](https://www.emendo.ai/)  
+
+## Interests  
+I am passionate about **Deep Learning** and **Generative AI**, focusing on cutting-edge advancements in artificial intelligence and machine learning.  
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aryan.raj__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryanraj13/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://medium.com/@aryanraj2713) 
