@@ -7,10 +7,12 @@ I am a final-year student at [SRM Institute of Science and Technology (SRM IST)]
 
 ## Experience  
 - **Machine Learning Engineer Intern** at [HyperVerge](https://hyperverge.co/) (Current)  
-- **Machine Learning Engineer** at [Emendo.ai](https://www.emendo.ai/)  
+- **Ex-Machine Learning Engineer Intern** at [Emendo.ai](https://www.emendo.ai/)
+- **Ex- AI Research Intern** at [Indian Institute of Technology Madras](https://www.iitm.ac.in/)
 
 ## Interests  
-I am passionate about **Deep Learning** and **Generative AI**, focusing on cutting-edge advancements in artificial intelligence and machine learning.  
+I am passionate about **Deep Learning** and **Generative AI**, focusing on cutting-edge advancements in artificial intelligence and machine learning.
+I am also intrested in *MLOps* and backend development, like to take my projects from prototype to production and love going to hackathons and build interesting projects.
 
 
 
