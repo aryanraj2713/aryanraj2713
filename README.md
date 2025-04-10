@@ -26,7 +26,6 @@ These experiences have reinforced my belief in the power of open-source communit
 ## Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&theme=dark&hide_border=false" width="48%" />
 </p>
 
 
