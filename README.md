@@ -12,7 +12,7 @@ I am a final-year student at [SRM Institute of Science and Technology (SRM IST)]
 
 ## Interests  
 I am passionate about **Deep Learning** and **Generative AI**, focusing on cutting-edge advancements in artificial intelligence and machine learning.
-I am also intrested in *MLOps* and backend development, like to take my projects from prototype to production and love going to hackathons and build interesting projects.
+I am also intrested in *MLOps* and backend development,I like to take my projects from prototype to production and love going to hackathons and build interesting projects.
 
 ## Open-Source and Communities
 As a passionate advocate for open-source development, I've dedicated myself to creating and maintaining numerous open-source projects. While my repositories may not have achieved widespread recognition yet, I remain committed to building and sharing my work with the community.
