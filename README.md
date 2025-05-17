@@ -24,9 +24,7 @@ Throughout these roles, I've organized various community events including hackat
 These experiences have reinforced my belief in the power of open-source communities to drive innovation through collective effort and shared knowledge. I remain dedicated to contributing to this ecosystem and supporting others on their learning journey.
 
 ## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-</p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=darcula&preferLogin=false">    <img  alt="aryanraj2713's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aryanraj2713?cardType=github&theme=darcula&preferLogin=false" />  </a>
 
 
 
