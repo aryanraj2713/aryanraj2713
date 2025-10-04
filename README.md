@@ -6,7 +6,8 @@
 I am a final-year student at [SRM Institute of Science and Technology (SRM IST)](https://www.srmist.edu.in/), pursuing a **B.Tech in Computer Science and Engineering**.  
 
 ## Experience  
-- **Machine Learning Engineer Intern** at [HyperVerge](https://hyperverge.co/)
+- **Machine Learning Engineer** at [SEOstack](https://www.seo-stack.io)
+- **Ex-Machine Learning Engineer Intern** at [HyperVerge](https://hyperverge.co/)
 - **Ex-Machine Learning Engineer Intern** at [Emendo.ai](https://www.emendo.ai/)
 - **Ex- AI Research Intern** at [Indian Institute of Technology Madras](https://www.iitm.ac.in/)
 
