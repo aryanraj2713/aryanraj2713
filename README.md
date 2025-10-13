@@ -3,7 +3,7 @@
 [LinkedIn Profile](https://www.linkedin.com/in/aryanraj13/)  
 
 ## About Me  
-I am a final-year student at [SRM Institute of Science and Technology (SRM IST)](https://www.srmist.edu.in/), pursuing a **B.Tech in Computer Science and Engineering**.  
+I am a **Computer Science Graduate** from [SRM Institute of Science and Technology (SRM IST)](https://www.srmist.edu.in/).
 
 ## Experience  
 - **Machine Learning Engineer** at [SEOstack](https://www.seo-stack.io)
