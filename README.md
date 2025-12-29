@@ -6,7 +6,8 @@
 I am a **Computer Science Graduate** from [SRM Institute of Science and Technology (SRM IST)](https://www.srmist.edu.in/).
 
 ## Experience  
-- **Machine Learning Engineer** at [SEOstack](https://www.seo-stack.io)
+- **Software Engineer (AI/DS)** at [Value Labs](https://www.valuelabs.com)
+- **Ex-Machine Learning Engineer** at [SEOstack](https://www.seo-stack.io)
 - **Ex-Machine Learning Engineer Intern** at [HyperVerge](https://hyperverge.co/)
 - **Ex-Machine Learning Engineer Intern** at [Emendo.ai](https://www.emendo.ai/)
 - **Ex- AI Research Intern** at [Indian Institute of Technology Madras](https://www.iitm.ac.in/)
